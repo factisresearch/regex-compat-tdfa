@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------
 -- |
 -- Module      :  Text.Regex
--- Copyright   :  (c) Chris Kuklewicz 2006, (c) shelarcy, derived from (c) The University of Glasgow 2001
+-- Copyright   :  (c) Chris Kuklewicz 2006, (c) shelarcy 2012, derived from (c) The University of Glasgow 2001
 -- License     :  BSD-style (see the file LICENSE)
 -- 
 -- Maintainer  :  libraries@haskell.org
