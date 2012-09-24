@@ -9,7 +9,7 @@ Author:                 Christopher Kuklewicz
 Maintainer:             shelarcy <shelarcy@gmail.com>
 Stability:              Seems to work, passes a few tests
 Homepage:               http://hub.darcs.net/shelarcy/regex-compat-tdfa
-Package-URL:            http://hub.darcs.net/shelarcy/regex-compat-tdfa
+Package-URL:            http://hackage.haskell.org/package/regex-compat-tdfa
 Synopsis:               Unicode Support version of Text.Regex, using regex-tdfa
 Description:            One module layer over regex-tdfa to replace Text.Regex.
                         .
