@@ -1,6 +1,6 @@
 Name:                   regex-compat-tdfa
 Version:                0.95.1.2
-Cabal-Version:          >=1.2
+Cabal-Version:          >= 1.6
 License:                BSD3
 License-File:           LICENSE
 Copyright:              Copyright (c) Christopher Kuklewicz 2006
@@ -21,6 +21,11 @@ Description:            One module layer over regex-tdfa to replace Text.Regex.
 Category:               Text
 Tested-With:            GHC
 Build-Type:		Simple
+
+source-repository head
+   type: darcs
+   location: http://hub.darcs.net/shelarcy/regex-compat-tdfa
+
 flag newBase
   description: Choose base >= 4
   default: True
